@@ -8,4 +8,4 @@ VN Engine V3|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubuserconte
 
 Benchmark Pro|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/Benchmark_Pro.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/benchmark.png|Test benchmark in you phone - Made by TakuruKagami.
 
-Benchmark Pro|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/KOI_182.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KOI.png|MMORPG - Made by TeamMobi.
+Ksatria Online|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/KOI_182.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KOI.png|MMORPG - Made by TeamMobi.
