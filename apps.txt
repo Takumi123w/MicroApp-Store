@@ -1,4 +1,3 @@
 /*This App list you should list like this also better use proxy for fetch with github*/
-Manga Reader|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPTV4.4-Revived-Fix.jar
+AIChat ChatGPT|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPTV4.4-Revived-Fix.jar
 
-//https://github.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/AIChat_ChatGPTV4.4-Revived-Fix.jar
