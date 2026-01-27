@@ -1,4 +1,9 @@
 /*This App list you should list like this also better use proxy for fetch with github*/
+
 AIChat ChatGPT V4.4|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPTV4.4-Revived-Fix.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIC.png|You want chat AI in you phone download this
+
 Manga Reader V7.2|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader_V07-2.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MR.png|Read Manga in J2ME more easy
+
 VN Engine V3|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/VN_EngineV03.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VNE.png|Game Engine for you make game with phone only by unpack this app and edit story.txt for script that VN
+
+Angry Birds|http://nnp.nnchan.ru/glype/browse.php?u=https://files.dertz.in/games/java/files/Angry%20Birds%20Mult-26240x40053.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://static.wikia.nocookie.net/angrybirds/images/7/70/AngryBirds_Classic_GameIcon_Vector_2.png/revision/latest/scale-to-width-down/250?cb=20220626150110|Touch Only - The aim of the game is to shoot at pigs which are placed on different constructions with the help of your catapult. In the game process pigs hide in the constructions which are made of different blocks. You send the birds with your catapult to destroy all enemies you will meet on the level. You win the game only after you destroy all the pigs. You can destroy them shooting at them as well as destroying their block constructions. Game by rovio entertainment.
