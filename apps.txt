@@ -1,1 +1,2 @@
-
+/*This App list you should list like this also better use proxy for fetch with github*/
+Manga Reader|http://nnp.nnchan.ru/glype/browse.php?u=https://github.com/Takumi123w/MangaReader-J2ME/releases/download/7.2/Manga_Reader_V07-2.jar
