@@ -1,4 +1,4 @@
 /*This App list you should list like this also better use proxy for fetch with github*/
-AIChat ChatGPT V4.4|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPTV4.4-Revived-Fix.jar
-Manga Reader V7.2|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader_V07-2.jar
-VN Engine V3|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/VN_EngineV03.jar
+AIChat ChatGPT V4.4|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPTV4.4-Revived-Fix.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/AIC.png
+Manga Reader V7.2|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader_V07-2.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/MR.png
+VN Engine V3|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/VN_EngineV03.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/raw/refs/heads/main/VNE.png
