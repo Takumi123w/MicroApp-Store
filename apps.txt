@@ -11,3 +11,7 @@ Benchmark Pro V3|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubuserc
 Ksatria Online V1.8.2|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KOI_182.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KOI.png|MMORPG - Made by TeamMobi.
 
 BandlabME V2.2|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/BandLabMEV2-2officielrelease.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/bandlab.jpg|BandLabME is a lightweight music application designed for Java (J2ME) phones. It allows you to compose, mix, and play musical sequences on 240x320 devices and above, with an interface inspired by BandLab - Made by Dahmalahi
+
+AdventureAbidjan 1|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AdventureAbidjan.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/image-2.jpg|Abidjan Adventure
+Rogue-lite J2ME text game (Java ME)
+A young professional in Abidjan experiences a morning full of mysteries: anonymous text messages, office conspiracy, risky choices, and time/money constraints.
