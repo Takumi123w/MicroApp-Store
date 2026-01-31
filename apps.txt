@@ -17,3 +17,5 @@ Ksatria Online V1.8.2|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.github
 Knight and Magic V2.8.0 Sky dragon|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KnightAndMagic_sky_dragon_280.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KOI.png|MMORPG Server Sky dragon
 
 Knight and Magic V2.8.0 fire dragon|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KnightAndMagic_fire_dragon_280.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KOI.png|MMORPG Server Sky dragon
+
+NesCube V2.3|http://nnp.nnchan.ru/glype/browse.php?u=https://dlf.emu-land.net/nes/nescube23.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://img.itch.zone/aW1hZ2UvMjcyNDU5OC8xNjI0ODU2Mi5qcGVn/347x500/4%2Bbrxj.jpeg|Nitendo Entertaiment System Emulator for older devices 
