@@ -18,6 +18,6 @@ Knight and Magic V2.8.0 Sky dragon|http://nnp.nnchan.ru/glype/browse.php?u=https
 
 Knight and Magic V2.8.0 fire dragon|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KnightAndMagic_fire_dragon_280.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KOI.png|MMORPG Server Sky dragon
 
-NesCube V2.3|http://nnp.nnchan.ru/glype/browse.php?u=https://dlf.emu-land.net/nes/nescube23.jar||Nitendo Entertaiment System Emulator for older devices
+NesCube V2.3|http://nnp.nnchan.ru/glype/browse.php?u=https://dlf.emu-land.net/nes/nescube23.jar||Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
 
-NesCube V3.2 beta|http://nnp.nnchan.ru/glype/browse.php?u=https://www.mobiles24.co/downloads/d/2uDAoR146B||Nitendo Entertaiment System Emulator for older devices 
+NesCube V3.2 beta|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Nescube_3.2.jar||Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
