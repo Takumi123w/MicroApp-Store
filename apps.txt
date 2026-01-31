@@ -20,4 +20,4 @@ Knight and Magic V2.8.0 fire dragon|http://nnp.nnchan.ru/glype/browse.php?u=http
 
 NesCube V2.3|http://nnp.nnchan.ru/glype/browse.php?u=https://dlf.emu-land.net/nes/nescube23.jar||Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
 
-NesCube V3.2 beta|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Nescube_3.2.jar||Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
+NesCube V3.2 beta|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Nescube_3_2.jar||Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
