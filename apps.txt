@@ -25,3 +25,6 @@ NesCube V3.2 beta|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubuser
 Jtube v2.90.1 last|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/JTube.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/jtube.png|Youtube Client for J2ME create by People: shinovon, MuseCat77, ales_alte, curoviyxru: vk4me integration
 
 MicroTube V01|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MicroTube.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MicroTube.png|Another Youtube Client for J2ME - Made by TakuruKagami
+
+MediaPlayerPlus V3.4|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MediaPlayerPlus.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/icon.png|All-in-one multimedia player for Java phones (J2ME)
+Download and play videos (3GP/MP4) and music (MP3) directly on your Nokia, Sony Ericsson, or Samsung! even on Itel
