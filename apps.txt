@@ -4,7 +4,7 @@ AIChat ChatGPT V4.5|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubus
 
 Manga Reader V7.3|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MR.png|Read Manga in J2ME more easy - Made by TakuruKagami.
 
-VN Engine V3 Fix URL|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VN_EngineV03.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VNE.png|Game Engine for you make game with phone only by unpack this app and edit story.txt for script that VN - Made by TakuruKagami.
+VN Engine V4|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VN_Engine.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VNE.png|Game Engine use folder for load game you can load your own game or use other people for sample get from https://github.com/Takumi123w/MicroApp-Store/blob/main/Sample.zip - Made by TakuruKagami.
 
 Benchmark Pro V3|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Benchmark_Pro.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/benchmark.png|Test benchmark in you phone - Made by TakuruKagami.
 
