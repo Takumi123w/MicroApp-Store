@@ -4,7 +4,7 @@ MicroApp Store|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercon
 
 AIChat ChatGPT V4.8|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPT-Revived-Fix.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIC.png|You want chat AI in you phone download this its support generate image by ascii and save it as bmp also support wikipedia link - Made by TakuruKagami.
 
-Manga Reader V7.4|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MR.png|Read Manga in J2ME more easy 7.4 update for limit load per pages you can set it less or more - Made by TakuruKagami.
+Manga Reader V7.5|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MR.png|Read Manga in J2ME more easy 7.5 search button and source update - Made by TakuruKagami.
 
 VN Engine V5|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VN_Engine.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VNE.png|Create Visual Novel game with your phone for sample get from https://github.com/Takumi123w/MicroApp-Store/blob/main/Sample.zip - Made by TakuruKagami.
 
