@@ -18,9 +18,9 @@ Knight and Magic V2.8.0 Sky dragon|http://nnp.nnchan.ru/glype/browse.php?u=https
 
 Knight and Magic V2.8.0 fire dragon|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KnightAndMagic_fire_dragon_280.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/KOI.png|MMORPG Server Sky dragon
 
-NesCube V2.3|http://nnp.nnchan.ru/glype/browse.php?u=https://dlf.emu-land.net/nes/nescube23.jar||Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
+NesCube V2.3|http://nnp.nnchan.ru/glype/browse.php?u=https://dlf.emu-land.net/nes/nescube23.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/nescube.jpeg|Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
 
-NesCube V3.2 beta|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Nescube_3_2.jar||Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
+NesCube V3.2 beta|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Nescube_3_2.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/nescube.jpeg|Nitendo Entertaiment System Emulator for older devices - Real Soft Makers 2010
 
 Jtube v2.90.1 last|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/JTube.jar|http://nnp.nnchan.ru/glype/browse.php?u=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/jtube.png|Youtube Client for J2ME create by People: shinovon, MuseCat77, ales_alte, curoviyxru: vk4me integration
 
