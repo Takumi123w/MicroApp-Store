@@ -4,7 +4,7 @@ MicroApp Store 2.0|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubu
 
 AIChat ChatGPT V4.9|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPT-Revived-Fix.jar|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIC.png|You want chat AI in you phone download this its support generate image by ascii and save it as bmp also support wikipedia link - Made by TakuruKagami.
 
-Manga Reader V7.5|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader.jar|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MR.png|Read Manga in J2ME more easy 7.5 search button and source update - Made by TakuruKagami.
+Manga Reader V7.6|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader.jar|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MR.png|Read Manga in J2ME more easy 7.5 search button and source update - Made by TakuruKagami.
 
 VN Engine V5|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VN_Engine.jar|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VNE.png|Create Visual Novel game with your phone for sample get from https://github.com/Takumi123w/MicroApp-Store/blob/main/Sample.zip - Made by TakuruKagami.
 
