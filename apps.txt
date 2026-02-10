@@ -2,7 +2,7 @@
 
 MicroApp Store|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MicroApp_Store.jar|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MCA.png|Client MicroApp Store
 
-AIChat ChatGPT V4.8|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPT-Revived-Fix.jar|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIC.png|You want chat AI in you phone download this its support generate image by ascii and save it as bmp also support wikipedia link - Made by TakuruKagami.
+AIChat ChatGPT V4.9|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPT-Revived-Fix.jar|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIC.png|You want chat AI in you phone download this its support generate image by ascii and save it as bmp also support wikipedia link - Made by TakuruKagami.
 
 Manga Reader V7.5|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader.jar|http://williamsmobile.co.uk/proxy.php?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MR.png|Read Manga in J2ME more easy 7.5 search button and source update - Made by TakuruKagami.
 
