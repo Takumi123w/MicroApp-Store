@@ -1,4 +1,5 @@
 /*This App list you should list like this also better use proxy for fetch with github*/
+/* Update */
 
 MicroApp Store 2.0|https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MicroApp_Store.jar|https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MCA.png|Client MicroApp Store
 
