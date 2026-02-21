@@ -6,7 +6,7 @@ AIChat ChatGPT V4.9|http://aged-darkness-5be4.granbind20.workers.dev/?url=https:
 
 Manga Reader V7.6|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Manga_Reader.jar|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MR.png|Read Manga in J2ME more easy 7.5 search button and source update - Made by TakuruKagami.
 
-VN Engine V5|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VN_Engine.jar|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VNE.png|Create Visual Novel game with your phone for sample get from https://github.com/Takumi123w/MicroApp-Store/blob/main/Sample.zip - Made by TakuruKagami.
+VN Engine V5.5|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VN_Engine.jar|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/VNE.png|Create Visual Novel game with your phone for sample get from https://github.com/Takumi123w/MicroApp-Store/blob/main/Sample.zip - Made by TakuruKagami.
 
 Benchmark Pro V3|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/Benchmark_Pro.jar|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/benchmark.png|Test benchmark in you phone - Made by TakuruKagami.
 
