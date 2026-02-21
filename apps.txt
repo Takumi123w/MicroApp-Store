@@ -1,6 +1,6 @@
 /*This App list you should list like this also better use proxy for fetch with github*/
 
-MicroApp Store 2.0|https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MicroApp_Store.jar|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MCA.png|Client MicroApp Store
+MicroApp Store 2.0|http://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MicroApp_Store.jar|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/MCA.png|Client MicroApp Store
 
 AIChat ChatGPT V4.9|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIChat_ChatGPT-Revived-Fix.jar|http://aged-darkness-5be4.granbind20.workers.dev/?url=https://raw.githubusercontent.com/Takumi123w/MicroApp-Store/refs/heads/main/AIC.png|You want chat AI in you phone download this its support generate image by ascii and save it as bmp also support wikipedia link - Made by TakuruKagami.
 
